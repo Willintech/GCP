@@ -17,3 +17,4 @@ go lang Google Cloud project
 
 You should see: HELLO FROM GO ON GOOGLE CLOUD
 
+to exit/quit server run this command in the BASH terminal: ctrl + c         (control button and c key)
